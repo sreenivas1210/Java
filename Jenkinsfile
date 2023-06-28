@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        function_name = 'Java'
+        function_name = 'java1210'
     }
 
     stages {
